@@ -4,7 +4,7 @@ import re
 import os
 import enum
 from html.parser import HTMLParser
-
+ 
 BASE_URL = 'http://www.skarnik.by/'
 DATABASE_FILE = 'vocabulary.db'
 
